@@ -51,8 +51,9 @@ export default function SimpleModal() {
       <div className="MainContainer">
         <video
           className="MainImage"
-          src="https://stream.mux.com/XQquoXufEQK6RY4rWGRPsz00CPoOOLP01MFXREPocaOMQ/medium.mp4"
-          autoPlay
+          src="https://ipfs.fleek.co/ipfs/bafybeieh6lhsnlemjxe3ze3msio6pxkqwi3vtexzxhbz5nobyuhxg7jyh4"
+          type="video/mp4"
+          autoplay
         />
         <button
           className="ZoraButton"
