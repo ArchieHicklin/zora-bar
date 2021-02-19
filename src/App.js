@@ -35,7 +35,10 @@ export default function SimpleModal() {
   const body = (
     <div className={classes.paper}>
       <h2 id="simple-modal-title">I'm editable</h2>
-      <iframe src="https://zora.co/archie/651"></iframe>
+      <iframe
+        title="🌜🌞🌛 for netlify"
+        src="https://zora.co/archie/651"
+      ></iframe>
       <SimpleModal />
     </div>
   );
